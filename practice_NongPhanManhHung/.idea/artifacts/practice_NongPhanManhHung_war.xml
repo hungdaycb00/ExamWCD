@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="practice_NongPhanManhHung:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>practice_NongPhanManhHung</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="practice_NongPhanManhHung-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="practice_NongPhanManhHung:war exploded" />
+    </root>
+  </artifact>
+</component>
